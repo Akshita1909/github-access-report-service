@@ -154,4 +154,6 @@ The application includes basic error handling for:
 ## Conclusion
 
 This project demonstrates integration with external APIs, data aggregation, and scalable backend design using reactive programming.
+<img width="1369" height="718" alt="image" src="https://github.com/user-attachments/assets/65320ed7-1fb1-4d8d-a435-377ac74f15d5" />
+
 
