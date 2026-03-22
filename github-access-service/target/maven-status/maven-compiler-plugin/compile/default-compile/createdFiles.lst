@@ -1,0 +1,6 @@
+com/example/github_access_service/model/User.class
+com/example/github_access_service/controller/AccessController.class
+com/example/github_access_service/GithubAccessServiceApplication.class
+com/example/github_access_service/model/Repo.class
+com/example/github_access_service/service/GitHubService.class
+com/example/github_access_service/client/GitHubClient.class
